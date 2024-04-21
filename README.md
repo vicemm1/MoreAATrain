@@ -1,3 +1,4 @@
+dhf666
 # 🤗 Introduction
 
 **update** 🏋️🏋️🏋️ We release our training codes!! Now you can train your own AnimateAnyone models. See [here](#train) for more details. Have fun!
